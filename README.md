@@ -1,12 +1,8 @@
-# TrabajoInfor1
-
-
-
-#Persiana Automática
+# Persiana Automática
 
 Control domótico de la subida y bajada de una persiana dependiendo de la cantidad de luz y de la presencia.
 
-# Integrantes del equipo
+## Integrantes del equipo
 
 Samuel Rey Álvarez
 Github: samu796
